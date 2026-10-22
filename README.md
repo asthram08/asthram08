@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://asthram08.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-asthram08.github.io-F5AE88?style=for-the-badge&labelColor=121A2C" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/asthrameadipudi"><img src="https://img.shields.io/badge/LINKEDIN-asthrameadipudi-8EC5F2?style=for-the-badge&labelColor=121A2C" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/EMAIL-say%20hi-E2694C?style=for-the-badge&labelColor=121A2C" alt="Email"></a>
+  <a href="mailto:ameadipudi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say%20hi-E2694C?style=for-the-badge&labelColor=121A2C" alt="Email"></a>
 </p>
 
 I like taking messy, real-world data and turning it into something people can use to make a decision. Lately that means building projects around questions I actually care about, like who a college should help first, why shoppers don't come back, and where to park at SJSU. Feel free to look around my repos and reach out!
